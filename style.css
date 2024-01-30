@@ -215,7 +215,7 @@ section .title::after{
 
 /* about section styling */
 .about .title::after{
-    content: "who i am";
+    content: "Who I Am";
 }
 .about .about-content .left{
     width: 45%;
@@ -305,7 +305,7 @@ section .title::after{
 /* skills section styling */
 
 .skills .title::after{
-    content: "what i know";
+    content: "What I Know";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
